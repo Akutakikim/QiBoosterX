@@ -59,4 +59,9 @@ MIT License. See [LICENSE](LICENSE) for full details.
 
 ## Author
 
-Made with passion and madness by **Akik Forazi** (A dummb boy from Bangladesh.)
+Made with passion and madness by **Akik Forazi** [(A dummb boy from Bangladesh.)](https://www.qairev.42web.io)
+
+## Contact
+
+[EMAIL](akikforaziinchaos@gmail.com)
+[FACEBOOK](https://www.facebook.com/share/16BEFdtR3y/)
