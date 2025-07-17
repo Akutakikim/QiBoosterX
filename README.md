@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/akutakikim/QiBoosterX.git
+git clone https://github.com/Akutakikim/QiBoosterX.git
 cd QiBoosterX
 pip install .
 ```
